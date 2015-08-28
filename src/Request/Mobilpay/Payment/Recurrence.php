@@ -1,6 +1,6 @@
 <?php namespace Request\Mobilpay\Payment;
 
-class Mobilpay_Payment_Recurrence
+class Recurrence
 {
     const ERROR_INVALID_PARAMETER			= 0x11110001;
     const ERROR_INVALID_INTERVAL_DAY		= 0x11110002;
